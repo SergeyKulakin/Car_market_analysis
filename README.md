@@ -16,9 +16,9 @@ This is repository about used car market analysis
 1. cпарсить объявления на сайтaх:
 
 
-- [АВТОРУ][https://auto.ru/moskva/cars/all/?utm_source=google_adwords&utm_medium=cpc&utm_campaign=1536099723_place-gsearch_geo-msk-r1_type-brandovye-avtoru&utm_content=grid-67086384868_cat-brandovye-tochnyi-brand_land-all-list_view_geo-msk-r1&utm_term=автору_kwd-294813956142&gclid=Cj0KCQiAnaeNBhCUARIsABEee8VzZalGO1hwbSN4e-95T0Q5o8nyqdRYqq-eb9Fn2H-4yCAGt9XvEMcaAoT_EALw_wcB], 
-- [ДРОМРУ][https://www.drom.ru], 
-- [АВИТО-АВТО][https://www.avito.ru/rossiya/avtomobili]; 
+- [Avto.ru][https://auto.ru/moskva/cars/all/?utm_source=google_adwords&utm_medium=cpc&utm_campaign=1536099723_place-gsearch_geo-msk-r1_type-brandovye-avtoru&utm_content=grid-67086384868_cat-brandovye-tochnyi-brand_land-all-list_view_geo-msk-r1&utm_term=автору_kwd-294813956142&gclid=Cj0KCQiAnaeNBhCUARIsABEee8VzZalGO1hwbSN4e-95T0Q5o8nyqdRYqq-eb9Fn2H-4yCAGt9XvEMcaAoT_EALw_wcB], 
+- [Drom.ru][https://www.drom.ru], 
+- [Avito][https://www.avito.ru/rossiya/avtomobili]; 
 
 
 2. выбрать рынок б/у автомобилей в Москве или Санкт-Петербурга(что-то одно). Спарсить минимум 5000 объявлений;
@@ -27,4 +27,5 @@ This is repository about used car market analysis
 5. построить несколько линейных моделей и выбрать лучшую.
 
 ## **Ход работы:**
-1. Код для парсинга Avto.ru[https://github.com/SergeyKulakin/Car_market_analysis/blob/main/Parser%20Avtoru.ipynb]
+1. Код для [парсинга Avto.ru][https://github.com/SergeyKulakin/Car_market_analysis/blob/main/Parser%20Avtoru.ipynb]
+2. Код [обработки данных с Avto.ru][https://github.com/SergeyKulakin/Car_market_analysis/blob/main/Parser%20Avtoru.ipynb]
