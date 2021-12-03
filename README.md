@@ -27,4 +27,4 @@ This is repository about used car market analysis
 5. построить несколько линейных моделей и выбрать лучшую.
 
 ## **Ход работы:**
-1. Код для парсинга Avto.ru[]
+1. Код для парсинга Avto.ru[https://github.com/SergeyKulakin/Car_market_analysis/blob/main/Parser%20Avtoru.ipynb]
