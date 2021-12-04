@@ -29,6 +29,6 @@ This is repository about used car market analysis
 ## **Ход работы:**
 1. Код [парсинга Avto.ru][https://github.com/SergeyKulakin/Car_market_analysis/blob/main/Parser%20Avtoru.ipynb]
 2. Код [обработки данных с Avto.ru][https://github.com/SergeyKulakin/Car_market_analysis/blob/main/Prepare_AvtoRu_Data_for_Analise.ipynb]
-- Обработанные данные [с Avto.ru (Москва, 15770 объявлений, дата сбора данных - 27.11.2021)][https://github.com/SergeyKulakin/Car_market_analysis/blob/main/Data_avtoru_prep.xlsx]
+- Обработанные данные [с Avto.ru (Москва, 15289 объявлений, дата сбора данных - 27.11.2021)][https://github.com/SergeyKulakin/Car_market_analysis/blob/main/Data_avtoru_prep.xlsx]
 - Данные [с Avito (Москва, Mersers-Benz 5545 объявлений, дата сбора данных - 02.12.2021)][https://github.com/SergeyKulakin/Car_market_analysis/blob/main/Prep_data_from_avito.xlsx]
 3. Код [Анализ признаков Avto.ru][https://github.com/SergeyKulakin/Car_market_analysis/blob/main/Analysis.ipynb]
