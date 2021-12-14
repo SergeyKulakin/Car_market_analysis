@@ -35,7 +35,7 @@ This is repository about used car market analysis
 - Обработанные данные [c Drom.ru][https://github.com/SergeyKulakin/Car_market_analysis/blob/main/drom_data_cleared.csv]
 - Данные [с Avito (Москва, Mersers-Benz 5545 объявлений, дата сбора данных - 02.12.2021)][https://github.com/SergeyKulakin/Car_market_analysis/blob/main/Prep_data_from_avito.xlsx]
 5. Код [Анализ признаков Avto.ru][https://github.com/SergeyKulakin/Car_market_analysis/blob/main/Analysis.ipynb]
-6. Датасет []
+6. Датасет [https://github.com/SergeyKulakin/Car_market_analysis/blob/main/DATA.xlsx]
 
 ## **Признаки в итоговом датасете**
 - **name** - название с сайта
