@@ -13,6 +13,6 @@
     2) Обучение модели [линейной регрессии][https://github.com/SergeyKulakin/Car_market_analysis/blob/main/stage_2/Leaner_regression_model.ipynb]
 
 3. **Интерпретация результатов**
-
+  ![Image alt](https://github.com/SergeyKulakin/Car_market_analysis/blob/98b9ece0c2812856756a617c0e33b1db3cdb832a/stage_2/screen/capture_20211226223932890.png)
 
 4. **Вывод по работе**  
