@@ -13,7 +13,7 @@ This is repository about used car market analysis
 - предсказать на реальных данных завышена или занижена цена на б/у автомобиль.
 
 ## **Задачи:**
-1. cпарсить объявления на сайтaх:
+1. Спарсить объявления на сайтaх:
 
 
 - [Avto.ru][https://auto.ru/moskva/cars/all/?utm_source=google_adwords&utm_medium=cpc&utm_campaign=1536099723_place-gsearch_geo-msk-r1_type-brandovye-avtoru&utm_content=grid-67086384868_cat-brandovye-tochnyi-brand_land-all-list_view_geo-msk-r1&utm_term=автору_kwd-294813956142&gclid=Cj0KCQiAnaeNBhCUARIsABEee8VzZalGO1hwbSN4e-95T0Q5o8nyqdRYqq-eb9Fn2H-4yCAGt9XvEMcaAoT_EALw_wcB], 
@@ -21,10 +21,10 @@ This is repository about used car market analysis
 - [Avito][https://www.avito.ru/rossiya/avtomobili]; 
 
 
-2. выбрать рынок б/у автомобилей в Москве или Санкт-Петербурга(что-то одно). Спарсить минимум 5000 объявлений;
-3. обработать данные (выбросы, пропущенные значения);
-4. провести разведочный анализ данных, попытаться понять какие характеристики (переменные) влияют на цены автомобилей. Для этого считать/визуализировать различные статистики в разрезе характеристик;
-5. построить несколько линейных моделей и выбрать лучшую.
+2. Выбрать рынок б/у автомобилей в Москве или Санкт-Петербурга(что-то одно). Спарсить минимум 5000 объявлений;
+3. Обработать данные (выбросы, пропущенные значения);
+4. Провести разведочный анализ данных, попытаться понять какие характеристики (переменные) влияют на цены автомобилей. Для этого считать/визуализировать различные статистики в разрезе характеристик;
+5. Построить несколько линейных моделей и выбрать лучшую.
 
 ## **Ход работы:**  
 **Этап № 1**  
@@ -37,3 +37,7 @@ This is repository about used car market analysis
 - Данные [с Avito (Москва, Mersers-Benz 5545 объявлений, дата сбора данных - 02.12.2021)][https://github.com/SergeyKulakin/Car_market_analysis/blob/main/stage_1/Prep_data_from_avito.xlsx]
   5. Код [Анализ признаков Avto.ru][https://github.com/SergeyKulakin/Car_market_analysis/blob/main/stage_1/Analysis.ipynb]
   6. Датасет [https://github.com/SergeyKulakin/Car_market_analysis/blob/main/stage_1/DATA.xlsx]
+
+**Этап № 2**
+  1. Обучение модели [градиентного бустинга][https://github.com/SergeyKulakin/Car_market_analysis/blob/main/stage_2/CatBoost_model_car_market.ipynb]
+  2. Обучение модели [линейной регрессии][https://github.com/SergeyKulakin/Car_market_analysis/blob/main/stage_2/Leaner_regression_model.ipynb]
