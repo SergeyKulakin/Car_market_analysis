@@ -1,7 +1,7 @@
 ## 1 Этап
 
 ## **Ход работы:**
-1. Код [парсинга Avto.ru][https://github.com/SergeyKulakin/Car_market_analysis/blob/main/Parser%20Avtoru.ipynb]
+1. Код [парсинга Avto.ru][https://github.com/SergeyKulakin/Car_market_analysis/blob/main/stage_1/Parser%20Avtoru.ipynb]
 2. Код [парсинга Drom.ru][https://github.com/SergeyKulakin/Car_market_analysis/blob/main/collect_data_from_drom_ru.ipynb]
 3. Код [обработки данных с Avto.ru][https://github.com/SergeyKulakin/Car_market_analysis/blob/main/Prepare_AvtoRu_Data_for_Analise.ipynb]
 4. Код [обработки данных с Drom.ru][https://github.com/SergeyKulakin/Car_market_analysis/blob/main/drom_postprocessing.ipynb]
